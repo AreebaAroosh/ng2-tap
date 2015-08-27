@@ -1,0 +1,26 @@
+{
+  "name": "ng2-tap",
+  "version": "0.0.0",
+  "description": "Unify mouse, touch and pointer event for Angualr2 apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valor-software/ng2-tap.git"
+  },
+  "keywords": [
+    "angular2",
+    "ng2",
+    "tap",
+    "angular2-tap",
+    "ng2-tap"
+  ],
+  "author": "Dmitriy Shekhovtsov <valorkin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valor-software/ng2-tap/issues"
+  },
+  "homepage": "https://github.com/valor-software/ng2-tap#readme"
+}
